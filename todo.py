@@ -1,10 +1,10 @@
 todos = []
 condition = True
-quis1 = input("What you want to add in your todo list ?\n")
+quis1 = input("What you want to add in your todo list ?")
 print(quis1)
 todos.append(quis1)
 while condition:
-    ques2 = input("Whould you want to add more !\n")
+    ques2 = input("Whould you want to add more !")
     todos.append(ques2)
     print(ques2)
     condition += 1
