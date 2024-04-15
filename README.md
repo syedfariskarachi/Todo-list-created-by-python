@@ -1,2 +1,2 @@
-# Todo-list-created-by-python
-todo list
+# Todo-list
+Todo list created by python 
